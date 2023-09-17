@@ -5,27 +5,24 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
-  ruby "3.2.2"
+* Ruby version:  ruby "3.2.2"
 
-* System dependencies
+* System dependencies : 
   Node.js (for JavaScript runtime)
   Yarn (for package management)
 
-* Configuration
+* Configuration :
   cp .env.example .env
 
 
-* Database creation
+* Database creation :
   rails db:create
 
-
-* Database initialization
+* Database initialization :
   rails db:migrate
   rails db:seed
 
-
-* How to run the test suite
+* How to run the test suite :
   rails test
 
 
